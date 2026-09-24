@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+ci_sessions/*
+!ci_sessions/index.html
+vendor/
+*.log
